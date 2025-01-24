@@ -46,6 +46,7 @@ if(isset($_POST['name'])){
 }
 ?>
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -55,7 +56,7 @@ if(isset($_POST['name'])){
     <link rel="stylesheet" href="index.css">
 </head>
 <body>
-    <img class="bg" src="bg.jpg" alt="USA">
+    <img class="bg" src="image.png" alt="USA">
     <div class="container">
         <h1>Welcome to NIMS University Application Form</h1>
         <p>Enter your details and submit your form to confirm your participation</p>
